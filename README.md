@@ -1,6 +1,6 @@
 # 2048 Game in JavaFX
 
-Welcome! This project is an implementation of the popular 2048 game using JavaFX. Below is the project structure:
+Welcome! This project is an implementation of the popular 2048 game using JavaFX
 
 ## Game Screenshots
 
