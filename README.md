@@ -1,6 +1,6 @@
-# 2048 Game in JavaFX
+# 2048 Game in Java Swing
 
-Welcome! This project is an implementation of the popular 2048 game using JavaFX
+Welcome! This project is an implementation of the popular 2048 game
 
 ## Game Screenshots
 
